@@ -5,7 +5,7 @@ import Editor from "@monaco-editor/react";
 import { v4 as uuid } from "uuid";
 import { Toaster, toast } from "react-hot-toast";
 
-const socket = io("https://codeconnect-t1.onrender.com", {
+const socket = io("https://codeconnect-by-team-seven.onrender.com", {
   reconnection: true,
   reconnectionAttempts: 5,
   reconnectionDelay: 1000,
