@@ -8,7 +8,7 @@ const app = express();
 
 const server = http.createServer(app);
 
-const url = `https://codeconnect-by-team-seven.onrender.com`;
+const url = `https://codeconnect-t1.onrender.com`;
 const interval = 30000;
 
 function reloadWebsite() {
